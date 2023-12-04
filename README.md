@@ -1,4 +1,4 @@
-# knn 使用cuda变成进行并行加速，可以实现高效Knn
+# 使用cuda编程进行并行加速，可以实现高效Knn
 pytorch, python3+, CUDA programming
 
 # dependency
