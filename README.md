@@ -1,4 +1,4 @@
-# 使用cuda编程进行并行加速，可以实现高效Knn
+# Using CUDA programming for parallel acceleration, efficient K-nearest neighbors (KNN) can be implemented
 pytorch, python3+, CUDA programming
 
 # dependency
