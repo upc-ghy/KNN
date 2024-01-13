@@ -1,5 +1,5 @@
 # Using CUDA programming for parallel acceleration, efficient K-nearest neighbors (KNN) can be implemented
-pytorch, python3+, CUDA programming
+The testing environment is: pytorch, python3+, CUDA programming
 
 # dependency
 Tested with cuda 11.7, python 3.7.16, pytorch 1.13.1, gcc 11.2.0
