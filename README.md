@@ -8,9 +8,9 @@ Tested with cuda 11.7, python 3.7.16, pytorch 1.13.1, gcc 11.2.0
 
 ~~~shell
 # clone the tool project
-git clone https://github.com/upc-ghy/knn.git
-# cd knn
-cd knn/
+git clone https://github.com/upc-ghy/KNN.git
+# cd KNN
+cd KNN/
 # install
 sudo python setup.py install
 ~~~
